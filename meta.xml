@@ -3,5 +3,10 @@
     <script src='client.lua' type='client' cache='false'/>
     <script src='server.lua' type='server'/>
 
+    <export function='createCustomTrain' type='server'/>
+    <export function='deleteCustomTrain' type='server'/>
+    <export function='setTrainTrack' type='server'/>
+    <export function='setTrainSpeed' type='server'/>
+
     <min_mta_version server='1.5.8-9.20979' client='1.5.8-9.20979'/>
 </meta>
