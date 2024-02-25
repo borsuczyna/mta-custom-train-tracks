@@ -1,0 +1,7 @@
+<meta>
+    <script src='tracks.lua' type='shared' cache='false'/>
+    <script src='client.lua' type='client' cache='false'/>
+    <script src='server.lua' type='server'/>
+
+    <min_mta_version server='1.5.8-9.20979' client='1.5.8-9.20979'/>
+</meta>
